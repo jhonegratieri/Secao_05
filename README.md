@@ -1,2 +1,2 @@
 # Secao_05
-Exercises solved about collections in Python.
+Exercises solved on Python logical and conditional structures.
